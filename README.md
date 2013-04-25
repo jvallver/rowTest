@@ -1,5 +1,4 @@
-rowTest
--------
+**rowTest**
 
 Util for creating row tests in python.
 
@@ -17,6 +16,6 @@ Util for creating row tests in python.
         @rowTest(testWithTwoIntNumbers = [1,2,3],
                  testWithOneNegativeNumber = [-1, 1, 0],
                  testWithTwoNegativeNumbers = [-2, -1, -3])
-        def sumTest(num1, num2, expected):
+        def test_sum(num1, num2, expected):
             actual = sum(num1, num2)
             self.assertEquals(actual, expected)
