@@ -1,10 +1,10 @@
 rowTest
-=======
+-------
 
-Util for creating row tests in python
+Util for creating row tests in python.
 
-Usage
------
+**Usage**
+
 
     import unittest
 
