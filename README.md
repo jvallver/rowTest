@@ -1,8 +1,10 @@
-**rowTest**
+rowTest
+-------
 
 Util for creating row tests in python.
 
-**Usage**
+Usage
+-----
 
 
 Let's say we have a function sum that we want to test:
