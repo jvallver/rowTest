@@ -5,10 +5,15 @@ Util for creating row tests in python.
 **Usage**
 
 
-    import unittest
+Let's say we have a function sum that we want to test:
 
     def sum(num1, num2):
         return num1 + num2
+
+Then we probably want to create the same test for diferent imputs of this function. 
+We can use @rowTest decorator for this propuse:
+
+    import unittest
 
     @useRowTest
     class MyTestClass(unittest.TestCase):
