@@ -1,4 +1,4 @@
-# Copyright (C) 2013 by Aivars Kalvans <jvallver@gmail.com>
+# Copyright (C) 2013 by Jordi Vallverdu <jvallver@gmail.com>
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
